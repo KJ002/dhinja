@@ -1,0 +1,8 @@
+{
+    "build_flags": "-g",
+    "link_flags": "",
+    "target": "main",
+    "compiler_bin": "gcc",
+    "source_dir": "./src",
+    "build_dir": "./build"
+}
